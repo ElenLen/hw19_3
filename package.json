@@ -1,0 +1,17 @@
+{
+  "name": "hw19_3",
+  "version": "1.0.0",
+  "description": "Создайте программу, которая будет добавлять посты на страницу. Для этого нам понадобится метод POST. Чтобы понять, какой метод использовать и как, нужно посмотреть в документации к API. У сервиса JSONplaceholder есть документация, даже с примерами запросов.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "ElenLen",
+  "license": "ISC",
+  "devDependencies": {
+    "@eslint/js": "^9.13.0",
+    "eslint": "^9.13.0",
+    "globals": "^15.11.0"
+  }
+}
